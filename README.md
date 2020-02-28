@@ -1,4 +1,4 @@
-# ESS2
+# ES2
 
 - [Singleton](/Singleton)
 - [Object Pool Pattern](/ObjectPoolPattern)
