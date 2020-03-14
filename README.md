@@ -6,3 +6,4 @@
 - [Bridge Pattern](/BridgePattern)
 - [Memento Pattern](/MementoPattern)
 - [Composite Pattern](/CompositePattern)
+- [Decorator Pattern](/DecoratorPattern)
