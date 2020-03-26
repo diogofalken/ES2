@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DecoratorPattern-tests">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecoratorPattern_tests</output-path>
+    <root id="archive" name="DecoratorPattern-tests.jar">
+      <element id="module-test-output" name="DecoratorPattern" />
+      <element id="module-output" name="DecoratorPattern" />
+    </root>
+  </artifact>
+</component>
