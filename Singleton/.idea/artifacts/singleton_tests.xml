@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="singleton-tests">
+    <output-path>$PROJECT_DIR$/out/artifacts/singleton_tests</output-path>
+    <root id="archive" name="singleton-tests.jar">
+      <element id="module-test-output" name="Singleton" />
+      <element id="module-output" name="Singleton" />
+    </root>
+  </artifact>
+</component>
