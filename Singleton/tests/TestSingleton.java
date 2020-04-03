@@ -1,3 +1,4 @@
+import com.es2.singleton.End;
 import com.es2.singleton.Registry;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
