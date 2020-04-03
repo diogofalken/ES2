@@ -1,11 +1,6 @@
-import com.es2.decorator.Auth;
-import com.es2.decorator.AuthException;
-import com.es2.decorator.AuthInterface;
-import com.es2.decorator.CommonWordsValidator;
+import com.es2.decorator.*;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
-
-import java.io.IOException;
 
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
 import static org.junit.jupiter.api.Assertions.assertThrows;
