@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TDD">
+    <output-path>$PROJECT_DIR$/out/artifacts/TDD</output-path>
+    <root id="archive" name="TDD.jar">
+      <element id="module-output" name="TDD" />
+      <element id="module-test-output" name="TDD" />
+    </root>
+  </artifact>
+</component>
