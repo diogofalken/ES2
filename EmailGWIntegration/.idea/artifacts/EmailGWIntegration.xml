@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmailGWIntegration">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailGWIntegration</output-path>
+    <root id="archive" name="EmailGWIntegration.jar">
+      <element id="module-output" name="EmailGWIntegration" />
+      <element id="module-test-output" name="EmailGWIntegration" />
+    </root>
+  </artifact>
+</component>
