@@ -7,3 +7,6 @@
 - [Memento Pattern](/MementoPattern)
 - [Composite Pattern](/CompositePattern)
 - [Decorator Pattern](/DecoratorPattern)
+- [Email Gateway Integration](/EmailGWIntegration)
+- [TDD](/TDD)
+- [Test Rating](/TestRating)
